@@ -1,4 +1,4 @@
-# Investigación de Operaciones 
+# Investigación de Operaciones 🧮
 ![Docente](https://img.shields.io/badge/Docente-Jorge_Bernardo_Ramirez_Zarta-003366?style=for-the-badge&logo=Docente&labelColor=FFFFFF)
 
 
